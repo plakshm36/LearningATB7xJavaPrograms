@@ -4,20 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001_Helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003_Singlemulticomment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004_Printexp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006_Nomainmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab007_Replaceargs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab011_Printstatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab013_Jumbledmainmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab014_Multiplemainmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Plakshm123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07072024/_Lab009.java" afterDir="false" />
+    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 7 class added">
+      <change afterPath="$PROJECT_DIR$/src/Readme_Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab015_Variabledatatypedec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab016_Bytedeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab017_Sizeofdatatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab018_Chardeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab020_Exceedbytesize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab021_Integerdeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab022_Intinsidequotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab023_Formattingprint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab025_Stringdecconcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab027_Binaryocthex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab029_doubledeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab031_Finalkeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab033_Modulusex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab034_keywords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab035_Escapecharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07062024/Lab001.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +38,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "plakshm36"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;plakshm36&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/plakshm36/LearningATB7xJavaPrograms.git",
-    "accountId": "cc55663c-506c-4646-af8c-d0457e58b0e7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/plakshm36/LearningATB7xJavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;cc55663c-506c-4646-af8c-d0457e58b0e7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2izqnZGSh4HAZWLfNy8Adv8uwVc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,19 +68,33 @@
     "Application.Lab011_printstatements.executor": "Run",
     "Application.Lab013_nomainmethod.executor": "Run",
     "Application.Lab014_Multiplemainmethod.executor": "Run",
+    "Application.Lab015_Variabledatatypedec.executor": "Run",
+    "Application.Lab018_Chardeclaration.executor": "Run",
+    "Application.Lab021_Integerdeclaration.executor": "Run",
+    "Application.Lab022_Intinsidequotes.executor": "Run",
+    "Application.Lab023_Formattingprint.executor": "Run",
+    "Application.Lab025_Stringdecconcatenation.executor": "Run",
+    "Application.Lab029_doubledeclaration.executor": "Run",
+    "Application.Lab033_Modulusex.executor": "Run",
+    "Application.Lab035_Escapecharacters.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab014_Multiplemainmethod">
-    <configuration name="Lab001_Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab001_Helloworld" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab035_Escapecharacters">
+    <configuration name="Lab023_Formattingprint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab023_Formattingprint" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007_Replaceargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab007_Replaceargs" />
+    <configuration name="Lab025_Stringdecconcatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab025_Stringdecconcatenation" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab011_Printstatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab011_Printstatements" />
+    <configuration name="Lab029_doubledeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab029_doubledeclaration" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab013_Jumbledmainmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab013_Jumbledmainmethod" />
+    <configuration name="Lab033_Modulusex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab033_Modulusex" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab014_Multiplemainmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab014_Multiplemainmethod" />
+    <configuration name="Lab035_Escapecharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab035_Escapecharacters" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab014_Multiplemainmethod" />
-        <item itemvalue="Application.Lab013_Jumbledmainmethod" />
-        <item itemvalue="Application.Lab011_Printstatements" />
-        <item itemvalue="Application.Lab007_Replaceargs" />
-        <item itemvalue="Application.Lab001_Helloworld" />
+        <item itemvalue="Application.Lab035_Escapecharacters" />
+        <item itemvalue="Application.Lab033_Modulusex" />
+        <item itemvalue="Application.Lab029_doubledeclaration" />
+        <item itemvalue="Application.Lab023_Formattingprint" />
+        <item itemvalue="Application.Lab025_Stringdecconcatenation" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +173,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720503924887</updated>
     </task>
+    <task id="LOCAL-00001" summary="All Progams of July 7 class added">
+      <option name="closed" value="true" />
+      <created>1720509094171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720509094171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All Progams of July 7 class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 7 class added" />
   </component>
 </project>

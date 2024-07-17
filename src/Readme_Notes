@@ -1,0 +1,23 @@
+# Java Programs
+Author - Padmapriya
+This Repo contains the source code for theExercise that we have done in the ATB7x batch
+- Core JAVA
+- OOPs
+- Collections Framework
+- Multi Threading
+- Design Patterns
+- FILE IO
+- Other misc concepts
+- Exception
+
+July-7-2024
+// How Java program works?
+Package -> Class -> Method -> Statements (;)
+Source Code - src
+Byte Code - out Folder
+Bytece Code - (java) ->(JVM) - Memory(RAM) -> Native Code.
+Main Method public static void main(String[]) - **JVM start the execution**
+
+
+2.shortcuts for intellij
+https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
