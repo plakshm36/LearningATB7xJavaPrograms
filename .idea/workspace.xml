@@ -5,10 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 13 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab047_Logicalor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab048_Logicaland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab050_Unaryoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab051_Operatorrecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab053_Memorysizeofdatatyes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab054_Typecastingex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab055_Typecastingex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab056_Tyecasting2types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab057_Typecastingnarrowingex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab058_Typecastingex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab059_Typecastingex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060_Incdecoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061_Incprepostex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab062_Incpostex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab063_Incprepostex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab064_Incprepostex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab065_Incprepostex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab066_Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab067_Newoperatorex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab068_Newoperatorex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab069_Newoperatorex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab079_Ternaryoperatorex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab080_Ternaryoeratorex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab046_Logicalnot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046_Logicalnot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +89,25 @@
     "Application.Lab047_Logicalor.executor": "Run",
     "Application.Lab047_Relationalnot.executor": "Run",
     "Application.Lab048_Logicaland.executor": "Run",
+    "Application.Lab049_Bodmas.executor": "Run",
+    "Application.Lab053_Memorysizeofdatatyes.executor": "Run",
+    "Application.Lab054_Typecastingex1.executor": "Run",
+    "Application.Lab055_Typecastingex2.executor": "Run",
+    "Application.Lab056_Tyecasting2types.executor": "Run",
+    "Application.Lab057_Typecastingex3.executor": "Run",
+    "Application.Lab058_Typecastingex4.executor": "Run",
+    "Application.Lab059_Typecastingex5.executor": "Run",
+    "Application.Lab060_Incdecoperator.executor": "Run",
+    "Application.Lab061_Incpost.executor": "Run",
+    "Application.Lab061_Incprepost.executor": "Run",
+    "Application.Lab063_Incprepostex2.executor": "Run",
+    "Application.Lab064_Incprepostex4.executor": "Run",
+    "Application.Lab065_Incprepostex5.executor": "Run",
+    "Application.Lab066_Concatenation.executor": "Run",
+    "Application.Lab067_Newoperatorex1.executor": "Run",
+    "Application.Lab069_Newoperatorex3.executor": "Run",
+    "Application.Lab079_Ternaryoperatorex1.executor": "Run",
+    "Application.Lab080_Ternaryoeratorex2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
@@ -84,13 +121,13 @@
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab049_Bodmas">
-    <configuration name="Lab043_Relationaloperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab043_Relationaloperator" />
+  <component name="RunManager" selected="Application.Lab070_Heapmemory">
+    <configuration name="Lab059_Typecastingex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab059_Typecastingex5" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab046_Logicalnot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab046_Logicalnot" />
+    <configuration name="Lab066_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab066_Concatenation" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab047_Logicalor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab047_Logicalor" />
+    <configuration name="Lab067_Newoperatorex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab067_Newoperatorex1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab048_Logicaland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab048_Logicaland" />
+    <configuration name="Lab069_Scpmemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab069_Scpmemory" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab049_Bodmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab049_Bodmas" />
+    <configuration name="Lab070_Heapmemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab070_Heapmemory" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="ex_14072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab049_Bodmas" />
-        <item itemvalue="Application.Lab048_Logicaland" />
-        <item itemvalue="Application.Lab047_Logicalor" />
-        <item itemvalue="Application.Lab046_Logicalnot" />
-        <item itemvalue="Application.Lab043_Relationaloperator" />
+        <item itemvalue="Application.Lab070_Heapmemory" />
+        <item itemvalue="Application.Lab069_Scpmemory" />
+        <item itemvalue="Application.Lab067_Newoperatorex1" />
+        <item itemvalue="Application.Lab066_Concatenation" />
+        <item itemvalue="Application.Lab059_Typecastingex5" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721224525227</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All Progams of July 13 class added">
+      <option name="closed" value="true" />
+      <created>1721309340967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721309340967</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
