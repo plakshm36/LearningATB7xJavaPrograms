@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 13 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab038_Unaryoperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab041_Compoundassignmentoperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab043_Relationaloperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046_Logicalnot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab047_Logicalor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab048_Logicaland.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab046_Logicalnot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046_Logicalnot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,15 @@
     "Application.Lab038_Unaryoperator.executor": "Run",
     "Application.Lab041_Compoundassignmentoperator.executor": "Run",
     "Application.Lab043_Relationaloperator.executor": "Run",
+    "Application.Lab047_Logicalor.executor": "Run",
     "Application.Lab047_Relationalnot.executor": "Run",
+    "Application.Lab048_Logicaland.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,46 +84,7 @@
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab046_Logicalnot">
-    <configuration name="Lab037_Arithmeticopertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab037_Arithmeticopertor" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab038_Unaryoperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab038_Unaryoperator" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab041_Compoundassignmentoperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab041_Compoundassignmentoperator" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab049_Bodmas">
     <configuration name="Lab043_Relationaloperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab043_Relationaloperator" />
       <module name="LearningATB7xJavaPrograms" />
@@ -147,13 +111,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab047_Logicalor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab047_Logicalor" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab048_Logicaland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab048_Logicaland" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab049_Bodmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab049_Bodmas" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab049_Bodmas" />
+        <item itemvalue="Application.Lab048_Logicaland" />
+        <item itemvalue="Application.Lab047_Logicalor" />
         <item itemvalue="Application.Lab046_Logicalnot" />
         <item itemvalue="Application.Lab043_Relationaloperator" />
-        <item itemvalue="Application.Lab041_Compoundassignmentoperator" />
-        <item itemvalue="Application.Lab038_Unaryoperator" />
-        <item itemvalue="Application.Lab037_Arithmeticopertor" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721201054722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All Progams of July 13 class added">
+      <option name="closed" value="true" />
+      <created>1721224525227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721224525227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
