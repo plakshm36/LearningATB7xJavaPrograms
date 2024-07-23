@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 13 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab071_Scpheaex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab073_Scpheapex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab074_Scpheapex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab075_Scpheapex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab076_Charatfunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab078_Stringfunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab081_Mathfunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0100_Switchreturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0101_Switchex4details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0102_Switchex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0103_Ifelseex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0105_Ifelseex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0106_Triangleclassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab082_Ifelseex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab083_Ifelseex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab084_Ifelseex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab085_Ifelseex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab087_Ifelseex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab088_Elseifex1maxoftwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab090_Multipleifgradecalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab091_Onlyifex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab092_Switchex1day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab093_Switchex2browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab094_Switchex3vowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab095_Switchdatatypesallowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab096_Switchcasecannotbesame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab097_Switchmultilpecondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab098_Switcharrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab099_Modus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +71,10 @@
     "Application.Lab001_Helloworld.executor": "Run",
     "Application.Lab004_Printexp.executor": "Run",
     "Application.Lab007_Replaceargs.executor": "Run",
+    "Application.Lab0100_Switchreturn.executor": "Run",
+    "Application.Lab0102_Switchex5.executor": "Run",
+    "Application.Lab0103_Ifelseex6.executor": "Run",
+    "Application.Lab0106_Triangleclassifier.executor": "Run",
     "Application.Lab011_printstatements.executor": "Run",
     "Application.Lab013_nomainmethod.executor": "Run",
     "Application.Lab014_Multiplemainmethod.executor": "Run",
@@ -87,6 +106,7 @@
     "Application.Lab061_Incpost.executor": "Run",
     "Application.Lab061_Incprepost.executor": "Run",
     "Application.Lab063_Incprepostex2.executor": "Run",
+    "Application.Lab063_Incprepostex3.executor": "Debug",
     "Application.Lab064_Incprepostex4.executor": "Run",
     "Application.Lab065_Incprepostex5.executor": "Run",
     "Application.Lab066_Concatenation.executor": "Run",
@@ -100,6 +120,24 @@
     "Application.Lab079_Ternaryoperatorex1.executor": "Run",
     "Application.Lab080_Ternaryoeratorex2.executor": "Run",
     "Application.Lab081_Mathfunc.executor": "Run",
+    "Application.Lab082_Ifelseex1.executor": "Run",
+    "Application.Lab083_Ifelseex2.executor": "Run",
+    "Application.Lab084_Ifelseex3.executor": "Run",
+    "Application.Lab085_Ifelseex4.executor": "Run",
+    "Application.Lab086_Ifelseex5.executor": "Run",
+    "Application.Lab088_Maxoftwo.executor": "Run",
+    "Application.Lab089_Multipleifgradecalc.executor": "Run",
+    "Application.Lab090_Multipleifgradecalc.executor": "Run",
+    "Application.Lab091_Onlyifex1.executor": "Run",
+    "Application.Lab092_Switchex1.executor": "Run",
+    "Application.Lab093_Switchex2.executor": "Run",
+    "Application.Lab094_Switchex3vowel.executor": "Run",
+    "Application.Lab095_Switchdatatypesallowed.executor": "Run",
+    "Application.Lab096_Switchcasecannotbesame.executor": "Run",
+    "Application.Lab097_Switchmultilpecondition.executor": "Run",
+    "Application.Lab098_Switcharrows.executor": "Run",
+    "Application.Lab099_Modus.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "full.screen.before.presentation.mode": "false",
@@ -113,13 +151,13 @@
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab081_Mathfunc">
-    <configuration name="Lab071_Scpheaex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab071_Scpheaex2" />
+  <component name="RunManager" selected="Application.Lab0105_Ifelseex8">
+    <configuration name="Lab0100_Switchreturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0100_Switchreturn" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab074_Scpheapex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab074_Scpheapex4" />
+    <configuration name="Lab0102_Switchex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0102_Switchex5" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab075_Scpheapex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab075_Scpheapex5" />
+    <configuration name="Lab0103_Ifelseex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0103_Ifelseex6" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab078_Stringfunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab078_Stringfunc" />
+    <configuration name="Lab0104_Ifelseex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0104_Ifelseex7" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab081_Mathfunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab081_Mathfunc" />
+    <configuration name="Lab0105_Ifelseex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0105_Ifelseex8" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab081_Mathfunc" />
-        <item itemvalue="Application.Lab078_Stringfunc" />
-        <item itemvalue="Application.Lab075_Scpheapex5" />
-        <item itemvalue="Application.Lab074_Scpheapex4" />
-        <item itemvalue="Application.Lab071_Scpheaex2" />
+        <item itemvalue="Application.Lab0105_Ifelseex8" />
+        <item itemvalue="Application.Lab0104_Ifelseex7" />
+        <item itemvalue="Application.Lab0103_Ifelseex6" />
+        <item itemvalue="Application.Lab0102_Switchex5" />
+        <item itemvalue="Application.Lab0100_Switchreturn" />
       </list>
     </recent_temporary>
   </component>
@@ -238,12 +276,36 @@
       <option name="project" value="LOCAL" />
       <updated>1721326982679</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All Progams of July 13 class added">
+      <option name="closed" value="true" />
+      <created>1721394890226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721394890226</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Progams of July 7 class added" />
     <MESSAGE value="All Progams of July 13 class added" />
     <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 13 class added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab063_Incprepostex3.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab063_Incprepostex3.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
