@@ -4,30 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 13 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0100_Switchreturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0101_Switchex4details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0102_Switchex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0103_Ifelseex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0105_Ifelseex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0106_Triangleclassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab082_Ifelseex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab083_Ifelseex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab084_Ifelseex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab085_Ifelseex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab087_Ifelseex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab088_Elseifex1maxoftwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab090_Multipleifgradecalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab091_Onlyifex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab092_Switchex1day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab093_Switchex2browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab094_Switchex3vowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab095_Switchdatatypesallowed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab096_Switchcasecannotbesame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab097_Switchmultilpecondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab098_Switcharrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab099_Modus.java" afterDir="false" />
+    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 20 class added">
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0107_FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab108_LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0106_ForLoopEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0107_ForLoopEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0108_ForLoopEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0109_ForLoopEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0110_ForLoopEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0111_ForLoopNoCond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0112_ForLoopEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0113_ForLoopEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0114_ForLoopEx7Characts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0115_ForLoopEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0116_ForLoopEx9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0117_ForLoopEx10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0119_ForLoopEx11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0120_BreakEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0121_ForIfEx12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0122_ContinueEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0123_ContinueEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0126_WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0129_WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0130_WhileFactorialEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Readme_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Readme_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab003_Singlemulticomment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003_SingleMultiComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab004_Printexp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004_PrintExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab006_Nomainmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006_NoMainMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab007_Replaceargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab007_ReplaceArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab011_Printstatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab011_PrintStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab013_Jumbledmainmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab013_JumbledMainMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab014_Multiplemainmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab014_MultipleMainMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab015_Variabledatatypedec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab015_VariableDataTypeDec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab016_Bytedeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab016_ByteDeclaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab017_Sizeofdatatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab017_SizeofDataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab018_Chardeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab018_CharDeclaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab020_Exceedbytesize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab020_ExceedByteSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab021_Integerdeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab021_IntegerDeclaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab022_Intinsidequotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab022_IntInsideQuotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab023_Formattingprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab023_FormattingPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab025_Stringdecconcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab025_StringConcatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab027_Binaryocthex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab027_BinaryOctHex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab029_doubledeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab029_DoubleDeclaration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab031_Finalkeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab031_FinalKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab033_Modulusex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab033_ModulusEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab034_keywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab034_Keywords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab035_Escapecharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab035_EscapeCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab038_Unaryoperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab038_UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab041_Compoundassignmentoperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab041_CompoundAssignmentOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab043_Relationaloperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab043_RelationalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab046_Logicalnot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046_LogicalNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab047_Logicalor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab047_LogicalOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab048_Logicaland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab048_LogicalAnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab050_Unaryoperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab050_UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab051_Operatorrecap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab051_OperatorRecap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab053_Memorysizeofdatatyes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab053_MemorySizeofDatatyes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab054_Typecastingex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab054_TypeCastingEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab055_Typecastingex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab055_TypeCastingEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab056_Tyecasting2types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab056_TypeCasting2Types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab057_Typecastingnarrowingex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab057_TypeCastingNarrowingEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab058_Typecastingex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab058_TypeCastingEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab059_Typecastingex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab059_TypeCastingEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab060_Incdecoperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060_IncDecOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab061_Incprepostex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061_IncPrePostEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab062_Incpostex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab062_IncPostEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab063_Incprepostex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab063_IncPrePostEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab064_Incprepostex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab064_IncPrePostEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab065_Incprepostex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab065_IncPrePostEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab067_Newoperatorex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab067_NewOperatorEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab068_Newoperatorex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab068_NewOperatorEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab069_Scpmemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab069_ScpMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab070_Heapmemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab070_HeapMemory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab071_Scpheaex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab071_ScpHeapEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab073_Scpheapex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab073_ScpHeapEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab074_Scpheapex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab074_ScpHeapEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab075_Scpheapex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab075_ScpHeapEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab076_Charatfunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab076_CharatFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab078_Stringfunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab078_StringFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab079_Ternaryoperatorex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab079_TernaryOperatorEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab080_Ternaryoeratorex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab080_TernaryOperatorEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14072024/Lab081_Mathfunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14072024/Lab081_MathFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab0100_Switchreturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0100_SwitchReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab0101_Switchex4details.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0101_SwitchEx4Details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab0102_Switchex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0102_SwitchEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab0103_Ifelseex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0103_IfelseEx6PosNeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab0104_Ifelseex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0104_IfelseEx7MaxofTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab0105_Ifelseex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0105_IfelseEx8Vowel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab0106_Triangleclassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab0106_TriangleClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab082_Ifelseex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab082_IfelseEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab083_Ifelseex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab083_IfelseEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab084_Ifelseex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab084_IfelseEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab085_Ifelseex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab085_IfelseEx4Multilpes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab087_Ifelseex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab087_IfelseEx5EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab088_Elseifex1maxoftwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab088_ElseifEx1Maxoftwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab090_Multipleifgradecalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab090_MultipleIfGradecalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab091_Onlyifex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab091_OnlyIfEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab092_Switchex1day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab092_SwitchEx1Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab093_Switchex2browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab093_SwitchEx2Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab094_Switchex3vowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab094_SwitchEx3Vowel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab095_Switchdatatypesallowed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab095_SwitchDataTypesAllowed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab096_Switchcasecannotbesame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab096_SwitchCaseCannotBeSame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab097_Switchmultilpecondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab097_SwitchMultilpeCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_20072024/Lab098_Switcharrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_20072024/Lab098_SwitchArrows.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +153,31 @@
     "Application.Lab0100_Switchreturn.executor": "Run",
     "Application.Lab0102_Switchex5.executor": "Run",
     "Application.Lab0103_Ifelseex6.executor": "Run",
+    "Application.Lab0105_Ifelseex7.executor": "Run",
+    "Application.Lab0105_Ifelseex8.executor": "Run",
+    "Application.Lab0106_ForLoopEx1.executor": "Run",
     "Application.Lab0106_Triangleclassifier.executor": "Run",
+    "Application.Lab0107_Fizzbuzztest.executor": "Run",
+    "Application.Lab0107_ForLoopEx2.executor": "Run",
+    "Application.Lab0108_ForLoopEx3.executor": "Run",
+    "Application.Lab0109_ForLoopEx3.executor": "Run",
+    "Application.Lab0110_ForLoopEx4.executor": "Run",
+    "Application.Lab0111_ForLoopNoCond.executor": "Run",
+    "Application.Lab0112_ForLoopEx5.executor": "Run",
+    "Application.Lab0113_ForLooEx6.executor": "Run",
+    "Application.Lab0114_ForLooEx7.executor": "Run",
+    "Application.Lab0115_ForLooEx8.executor": "Run",
+    "Application.Lab0116_ForLoopEx9.executor": "Run",
+    "Application.Lab0117_ForLoopEx10.executor": "Run",
+    "Application.Lab0119_ForLoopEx11.executor": "Run",
     "Application.Lab011_printstatements.executor": "Run",
+    "Application.Lab0120_BreakEx1.executor": "Run",
+    "Application.Lab0121_ForIfEx12.executor": "Run",
+    "Application.Lab0122_ContinueEx1.executor": "Run",
+    "Application.Lab0123_ContinueEvenOdd.executor": "Run",
+    "Application.Lab0126_WhileEx1.executor": "Run",
+    "Application.Lab0129_WhileEx2.executor": "Run",
+    "Application.Lab0130_WhileFactorialEx3.executor": "Run",
     "Application.Lab013_nomainmethod.executor": "Run",
     "Application.Lab014_Multiplemainmethod.executor": "Run",
     "Application.Lab015_Variabledatatypedec.executor": "Run",
@@ -122,6 +224,7 @@
     "Application.Lab081_Mathfunc.executor": "Run",
     "Application.Lab082_Ifelseex1.executor": "Run",
     "Application.Lab083_Ifelseex2.executor": "Run",
+    "Application.Lab084_IfelseEx3.executor": "Run",
     "Application.Lab084_Ifelseex3.executor": "Run",
     "Application.Lab085_Ifelseex4.executor": "Run",
     "Application.Lab086_Ifelseex5.executor": "Run",
@@ -137,6 +240,7 @@
     "Application.Lab097_Switchmultilpecondition.executor": "Run",
     "Application.Lab098_Switcharrows.executor": "Run",
     "Application.Lab099_Modus.executor": "Run",
+    "Application.Lab108_Leapyear.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -151,13 +255,13 @@
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab0105_Ifelseex8">
-    <configuration name="Lab0100_Switchreturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0100_Switchreturn" />
+  <component name="RunManager" selected="Application.Lab0130_WhileFactorialEx3">
+    <configuration name="Lab0123_ContinueEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0123_ContinueEvenOdd" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0102_Switchex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0102_Switchex5" />
+    <configuration name="Lab0126_WhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0126_WhileEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0103_Ifelseex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0103_Ifelseex6" />
+    <configuration name="Lab0129_WhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0129_WhileEx2" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0104_Ifelseex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0104_Ifelseex7" />
+    <configuration name="Lab0130_WhileFactorialEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0130_WhileFactorialEx3" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,8 +308,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0105_Ifelseex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab0105_Ifelseex8" />
+    <configuration name="Lab084_IfelseEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab084_IfelseEx3" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -219,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0105_Ifelseex8" />
-        <item itemvalue="Application.Lab0104_Ifelseex7" />
-        <item itemvalue="Application.Lab0103_Ifelseex6" />
-        <item itemvalue="Application.Lab0102_Switchex5" />
-        <item itemvalue="Application.Lab0100_Switchreturn" />
+        <item itemvalue="Application.Lab0130_WhileFactorialEx3" />
+        <item itemvalue="Application.Lab084_IfelseEx3" />
+        <item itemvalue="Application.Lab0129_WhileEx2" />
+        <item itemvalue="Application.Lab0126_WhileEx1" />
+        <item itemvalue="Application.Lab0123_ContinueEvenOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -284,26 +388,40 @@
       <option name="project" value="LOCAL" />
       <updated>1721394890226</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All Progams of July 20 class added">
+      <option name="closed" value="true" />
+      <created>1721739848171</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721739848171</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Progams of July 7 class added" />
     <MESSAGE value="All Progams of July 13 class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 13 class added" />
+    <MESSAGE value="All Progams of July 20 class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 20 class added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab063_Incprepostex3.java</url>
+          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab063_IncPrePostEx3.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab063_Incprepostex3.java</url>
+          <url>file://$PROJECT_DIR$/src/ex_14072024/Lab063_IncPrePostEx3.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_20072024/Lab108_LeapYear.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

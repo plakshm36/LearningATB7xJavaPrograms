@@ -21,3 +21,9 @@ Main Method public static void main(String[]) - **JVM start the execution**
 
 2.shortcuts for intellij
 https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+
+3.Rules for naming
+class,interface--First letter should be captial +internal words first letter should be capital
+Methods,Variables-first letter small,internal words capitlised.
+constants-all letters should be capital
