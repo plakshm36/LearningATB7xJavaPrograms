@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 20 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0131_DoWhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0134_PreBuiltFunctionEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0135_FunctionEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0136_FunctionTypes.java" afterDir="false" />
+    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 21 class added">
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0137_ArrayDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0138_ArrayPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0139_ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0140_ArrayMultilpesEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0141_ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0142_ArrayEx4Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0143_ArrayDisadv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0144_ArrayDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0146_ArrayAvgPgm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0147_MaxMinSalariesClassEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0148_Multidimesionalarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0149_2DEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0151_StringsEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0152_StringBufferEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0153_StringBuilderEx1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +95,19 @@
     "Application.Lab0131_DoWhileEx1.executor": "Run",
     "Application.Lab0135_FunctionEx1.executor": "Run",
     "Application.Lab0136_FunctionTypes.executor": "Run",
+    "Application.Lab0138_ArrayPrinting.executor": "Run",
+    "Application.Lab0139_ArrayEx1.executor": "Run",
+    "Application.Lab0139_Arrayex1.executor": "Run",
     "Application.Lab013_nomainmethod.executor": "Run",
+    "Application.Lab0141_ArrayEx3.executor": "Run",
+    "Application.Lab0143_ArrayDisadv.executor": "Run",
+    "Application.Lab0146_ArrayAvgPgm.executor": "Run",
+    "Application.Lab0147_MaxSalaries.executor": "Run",
+    "Application.Lab0149_2DEx1.executor": "Run",
     "Application.Lab014_Multiplemainmethod.executor": "Run",
+    "Application.Lab0151_StringsEx1.executor": "Run",
+    "Application.Lab0152_StringBufferEx1.executor": "Run",
+    "Application.Lab0153_StringBuilderEx1.executor": "Coverage",
     "Application.Lab015_Variabledatatypedec.executor": "Run",
     "Application.Lab018_Chardeclaration.executor": "Run",
     "Application.Lab021_Integerdeclaration.executor": "Run",
@@ -161,13 +183,13 @@
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab0136_FunctionTypes">
-    <configuration name="Lab0130_WhileFactorialEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0130_WhileFactorialEx3" />
+  <component name="RunManager" selected="Application.Lab0153_StringBuilderEx1">
+    <configuration name="Lab0147_MaxMinSalariesClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.Lab0147_MaxMinSalariesClassEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_Lab28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0131_DoWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0131_DoWhileEx1" />
+    <configuration name="Lab0149_2DEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.Lab0149_2DEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_Lab28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0135_FunctionEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0135_FunctionEx1" />
+    <configuration name="Lab0151_StringsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.Lab0151_StringsEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_Lab28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0136_FunctionTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab0136_FunctionTypes" />
+    <configuration name="Lab0152_StringBufferEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.Lab0152_StringBufferEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="PATTERN" value="ex_Lab28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab084_IfelseEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab084_IfelseEx3" />
+    <configuration name="Lab0153_StringBuilderEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.Lab0153_StringBuilderEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_Lab28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0136_FunctionTypes" />
-        <item itemvalue="Application.Lab0135_FunctionEx1" />
-        <item itemvalue="Application.Lab0131_DoWhileEx1" />
-        <item itemvalue="Application.Lab0130_WhileFactorialEx3" />
-        <item itemvalue="Application.Lab084_IfelseEx3" />
+        <item itemvalue="Application.Lab0153_StringBuilderEx1" />
+        <item itemvalue="Application.Lab0152_StringBufferEx1" />
+        <item itemvalue="Application.Lab0151_StringsEx1" />
+        <item itemvalue="Application.Lab0149_2DEx1" />
+        <item itemvalue="Application.Lab0147_MaxMinSalariesClassEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,14 +324,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721739848171</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="All Progams of July 21 class added">
+      <option name="closed" value="true" />
+      <created>1721913351990</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721913351990</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Progams of July 7 class added" />
     <MESSAGE value="All Progams of July 13 class added" />
     <MESSAGE value="All Progams of July 20 class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 20 class added" />
+    <MESSAGE value="All Progams of July 21 class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 21 class added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,5 +362,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningATB7xJavaPrograms$Lab0153_StringBuilderEx1.ic" NAME="Lab0153_StringBuilderEx1 Coverage Results" MODIFIED="1722341469758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ex_Lab28072024.*</FILTER>
+    </SUITE>
   </component>
 </project>
