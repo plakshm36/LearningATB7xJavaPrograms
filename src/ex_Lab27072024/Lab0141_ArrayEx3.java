@@ -1,4 +1,4 @@
-package ex_Lab28072024;
+package ex_Lab27072024;
 
 public class Lab0141_ArrayEx3 {
     public static void main(String[] args) {
