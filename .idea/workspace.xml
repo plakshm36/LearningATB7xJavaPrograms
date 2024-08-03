@@ -4,30 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 27 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/BuildingBP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0154_ClassEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0155_ClassEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0159_ClassEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/SecondLargestSalary.java" afterDir="false" />
+    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 28 class added">
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/LeftAngleTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/RightAngleTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0137_ArrayDeclaration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0137_ArrayDeclaration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0138_ArrayPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0138_ArrayPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0139_ArrayEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0139_ArrayEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0140_ArrayMultilpesEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0140_ArrayMultilpesEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0141_ArrayEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0141_ArrayEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0142_ArrayEx4Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0142_ArrayEx4Final.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0143_ArrayDisadv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0143_ArrayDisadv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0144_ArrayDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0144_ArrayDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0146_ArrayAvgPgm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0146_ArrayAvgPgm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0147_MaxMinSalariesClassEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0147_MaxMinSalariesClassEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0148_Multidimesionalarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0148_Multidimesionalarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0149_2DEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0149_2DEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0151_StringsEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0151_StringsEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0152_StringBufferEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0152_StringBufferEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Lab0153_StringBuilderEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab27072024/Lab0153_StringBuilderEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/SecondLargestSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab28072024/SecondLargestSalary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +92,7 @@
     "Application.Lab0146_ArrayAvgPgm.executor": "Run",
     "Application.Lab0147_MaxMinSalariesClassEx1.executor": "Run",
     "Application.Lab0147_MaxSalaries.executor": "Run",
-    "Application.Lab0149_2DEx1.executor": "Run",
+    "Application.Lab0149_2DEx1.executor": "Debug",
     "Application.Lab014_Multiplemainmethod.executor": "Run",
     "Application.Lab0151_StringsEx1.executor": "Run",
     "Application.Lab0152_StringBufferEx1.executor": "Run",
@@ -177,6 +158,8 @@
     "Application.Lab098_Switcharrows.executor": "Run",
     "Application.Lab099_Modus.executor": "Run",
     "Application.Lab108_Leapyear.executor": "Run",
+    "Application.LeftAngleTriangle.executor": "Run",
+    "Application.RightAngleTriangle.executor": "Run",
     "Application.SecondLargestSalary (1).executor": "Run",
     "Application.SecondLargestSalary.executor": "Run",
     "Application.maxmin.executor": "Run",
@@ -194,9 +177,9 @@
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecondLargestSalary">
-    <configuration name="Lab0147_MaxMinSalariesClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab27072024.Lab0147_MaxMinSalariesClassEx1" />
+  <component name="RunManager" selected="Application.LeftAngleTriangle">
+    <configuration name="Lab0149_2DEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab27072024.Lab0149_2DEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -208,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0153_StringBuilderEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab27072024.Lab0153_StringBuilderEx1" />
+    <configuration name="LeftAngleTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.LeftAngleTriangle" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_Lab27072024.*" />
+          <option name="PATTERN" value="ex_Lab28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,8 +204,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargestSalary (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.SecondLargestSalary" />
+    <configuration name="RightAngleTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.RightAngleTriangle" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -262,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeftAngleTriangle" />
+        <item itemvalue="Application.RightAngleTriangle" />
+        <item itemvalue="Application.Lab0149_2DEx1" />
         <item itemvalue="Application.SecondLargestSalary" />
         <item itemvalue="Application.maxmin" />
-        <item itemvalue="Application.SecondLargestSalary (1)" />
-        <item itemvalue="Application.Lab0147_MaxMinSalariesClassEx1" />
-        <item itemvalue="Application.Lab0153_StringBuilderEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722341534562</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="All Progams of July 28 class added">
+      <option name="closed" value="true" />
+      <created>1722689194631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722689194631</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -360,7 +351,8 @@
     <MESSAGE value="All Progams of July 20 class added" />
     <MESSAGE value="All Progams of July 21 class added" />
     <MESSAGE value="All Progams of July 27 class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 27 class added" />
+    <MESSAGE value="All Progams of July 28 class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 28 class added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -379,6 +371,26 @@
           <url>file://$PROJECT_DIR$/src/ex_20072024/Lab108_LeapYear.java</url>
           <line>19</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_Lab27072024/Lab0149_2DEx1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_Lab27072024/Lab0149_2DEx1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_Lab27072024/Lab0149_2DEx1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_Lab27072024/Lab0149_2DEx1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

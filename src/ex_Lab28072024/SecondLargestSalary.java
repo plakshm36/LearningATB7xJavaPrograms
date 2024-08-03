@@ -9,7 +9,7 @@ public class SecondLargestSalary {
     public float[] firstSecondMax(float[] salaries){
        float largest=0 ;
        float secondLargest=0;
-       float[] result = new float[1];
+       float[] result = new float[2];
         for(int i =0;i<salaries.length;i++)
         {
             if(salaries[i]>largest){
