@@ -1,6 +1,5 @@
-package ex_Lab04082024;
+package ex_Lab04082024.Constructor;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Lab0170_ConsEx2 {

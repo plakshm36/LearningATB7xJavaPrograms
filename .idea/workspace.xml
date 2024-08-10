@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 28 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/ConsEx1_ATBPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0165_InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0169_ConsEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0170_ConsEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of Aug 4 class added">
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/ConsEx1_ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/ConsEx1_ATBPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0162.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0165_InstanceVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0165_InstanceVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0169_ConsEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0169_ConsEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0170_ConsEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0170_ConsEx2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,11 +200,11 @@
       </method>
     </configuration>
     <configuration name="Lab0169_ConsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.Lab0169_ConsEx1" />
+      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.Constructor.Lab0169_ConsEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_Lab04082024.*" />
+          <option name="PATTERN" value="ex_Lab04082024.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +213,11 @@
       </method>
     </configuration>
     <configuration name="Lab0170_ConsEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.Lab0170_ConsEx2" />
+      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.Constructor.Lab0170_ConsEx2" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_Lab04082024.*" />
+          <option name="PATTERN" value="ex_Lab04082024.Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722699964441</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="All Progams of Aug 4 class added">
+      <option name="closed" value="true" />
+      <created>1723306413711</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723306413711</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -369,7 +376,8 @@
     <MESSAGE value="All Progams of July 21 class added" />
     <MESSAGE value="All Progams of July 27 class added" />
     <MESSAGE value="All Progams of July 28 class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Progams of July 28 class added" />
+    <MESSAGE value="All Progams of Aug 4 class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Progams of Aug 4 class added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

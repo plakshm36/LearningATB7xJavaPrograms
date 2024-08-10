@@ -1,4 +1,4 @@
-package ex_Lab04082024;
+package ex_Lab04082024.Constructor;
 
 public class Lab0162 {
 
