@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of Aug 4 class added">
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/ConsEx1_ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/ConsEx1_ATBPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0162.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0165_InstanceVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0165_InstanceVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0169_ConsEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0169_ConsEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0170_ConsEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/Lab0170_ConsEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/HierarchicalInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/HierarchicalInheritance/Lab0176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/HierarchicalInheritance/Son1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/HierarchicalInheritance/Son2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/HierarchicalInheritance/Son3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultilevelInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultilevelInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultilevelInheritance/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultilevelInheritance/Lab0174.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultipleInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultipleInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultipleInheritance/Lab0176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/MultipleInheritance/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/SingleInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/SingleInheritance/Lab0172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/SingleInheritance/RealExample/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/SingleInheritance/RealExample/GrandBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/SingleInheritance/RealExample/TestCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/SingleInheritance/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab28072024/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -103,6 +119,8 @@
     "Application.Lab0166_ConsEx1.executor": "Run",
     "Application.Lab0169_ConsEx1.executor": "Run",
     "Application.Lab0170_ConsEx2.executor": "Run",
+    "Application.Lab0174.executor": "Run",
+    "Application.Lab0176.executor": "Run",
     "Application.Lab018_Chardeclaration.executor": "Run",
     "Application.Lab021_Integerdeclaration.executor": "Run",
     "Application.Lab022_Intinsidequotes.executor": "Run",
@@ -167,6 +185,7 @@
     "Application.RightAngleTriangle.executor": "Run",
     "Application.SecondLargestSalary (1).executor": "Run",
     "Application.SecondLargestSalary.executor": "Run",
+    "Application.ex_Lab04082024.HierarchicalInheritance.Lab0176.executor": "Run",
     "Application.maxmin.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -185,20 +204,7 @@
       <recent name="ex_Lab04082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab0170_ConsEx2">
-    <configuration name="Lab0149_2DEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab27072024.Lab0149_2DEx1" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab27072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ex_Lab04082024.HierarchicalInheritance.Lab0176">
     <configuration name="Lab0169_ConsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.Constructor.Lab0169_ConsEx1" />
       <module name="LearningATB7xJavaPrograms" />
@@ -225,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftAngleTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.LeftAngleTriangle" />
+    <configuration name="Lab0174" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.MultilevelInheritance.Lab0174" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_Lab28072024.*" />
+          <option name="PATTERN" value="ex_Lab04082024.MultilevelInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +244,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightAngleTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.RightAngleTriangle" />
+    <configuration name="Lab0176" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.MultipleInheritance.Lab0176" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_Lab28072024.*" />
+          <option name="PATTERN" value="ex_Lab04082024.MultipleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex_Lab04082024.HierarchicalInheritance.Lab0176" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.HierarchicalInheritance.Lab0176" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab04082024.HierarchicalInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex_Lab04082024.HierarchicalInheritance.Lab0176" />
+        <item itemvalue="Application.Lab0174" />
+        <item itemvalue="Application.Lab0176" />
         <item itemvalue="Application.Lab0170_ConsEx2" />
         <item itemvalue="Application.Lab0169_ConsEx1" />
-        <item itemvalue="Application.LeftAngleTriangle" />
-        <item itemvalue="Application.RightAngleTriangle" />
-        <item itemvalue="Application.Lab0149_2DEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723306413711</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="All Progams of Aug 4 class added">
+      <option name="closed" value="true" />
+      <created>1723307154495</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723307154495</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

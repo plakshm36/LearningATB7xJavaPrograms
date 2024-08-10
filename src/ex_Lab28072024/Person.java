@@ -9,7 +9,7 @@ public class Person {
 
 
     // Behavior / > Methods (function within the class)
-    void walk() {
+    public void walk() {
 
     }
 
