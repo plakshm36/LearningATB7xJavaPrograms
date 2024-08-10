@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of July 28 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/LeftAngleTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab28072024/RightAngleTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/ConsEx1_ATBPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0165_InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0169_ConsEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Lab0170_ConsEx2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab28072024/SecondLargestSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab28072024/SecondLargestSalary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +101,9 @@
     "Application.Lab0152_StringBufferEx1.executor": "Run",
     "Application.Lab0153_StringBuilderEx1.executor": "Coverage",
     "Application.Lab015_Variabledatatypedec.executor": "Run",
+    "Application.Lab0166_ConsEx1.executor": "Run",
+    "Application.Lab0169_ConsEx1.executor": "Run",
+    "Application.Lab0170_ConsEx2.executor": "Run",
     "Application.Lab018_Chardeclaration.executor": "Run",
     "Application.Lab021_Integerdeclaration.executor": "Run",
     "Application.Lab022_Intinsidequotes.executor": "Run",
@@ -176,14 +182,43 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xJavaPrograms\src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ex_Lab04082024" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.LeftAngleTriangle">
+  <component name="RunManager" selected="Application.Lab0170_ConsEx2">
     <configuration name="Lab0149_2DEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_Lab27072024.Lab0149_2DEx1" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_Lab27072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab0169_ConsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.Lab0169_ConsEx1" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab04082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab0170_ConsEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab04082024.Lab0170_ConsEx2" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,39 +252,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.SecondLargestSalary" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab28072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab28072024.maxmin" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab28072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab0170_ConsEx2" />
+        <item itemvalue="Application.Lab0169_ConsEx1" />
         <item itemvalue="Application.LeftAngleTriangle" />
         <item itemvalue="Application.RightAngleTriangle" />
         <item itemvalue="Application.Lab0149_2DEx1" />
-        <item itemvalue="Application.SecondLargestSalary" />
-        <item itemvalue="Application.maxmin" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722689194631</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="All Progams of July 28 class added">
+      <option name="closed" value="true" />
+      <created>1722699964441</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722699964441</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
