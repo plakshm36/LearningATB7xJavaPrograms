@@ -1,7 +1,7 @@
 package ex_Lab04082024.Constructor;
 
 public class ConsEx1_ATBPerson {
-
+//instance variable
     String name;
     long phonenumber;
 //  Constructors must have the same name as the class in which they are defined,
