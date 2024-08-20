@@ -1,5 +1,7 @@
 package ex_Lab04082024.Constructor;
 
+import java.util.ArrayList;
+
 public class ConsEx1_ATBPerson {
 //instance variable
     String name;
@@ -25,4 +27,6 @@ public class ConsEx1_ATBPerson {
         this.name=nameP2;
         this.phonenumber=phNum;
     }
+
+
 }

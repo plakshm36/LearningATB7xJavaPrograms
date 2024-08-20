@@ -14,7 +14,7 @@ public class MathOperations {
 
     //different way opf constructor
 
-    MathOperations()
+   MathOperations()
     {
         System.out.println("Default Constructor");
     }

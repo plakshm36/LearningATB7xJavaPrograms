@@ -20,7 +20,8 @@ class car extends Vechicle{
     private int min_speed = 100;
 
     car(){
-        //using super keyword calling a construtor present in parent class
+        //using super keyword calling a construtor present in parent class.
+
         super(10);
         System.out.println("This is a default constructor present in subclass");
     }
