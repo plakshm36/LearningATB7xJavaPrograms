@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of Aug 11 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Enum/BUG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Enum/COLORS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Enum/Lab208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/NestedClass/Lab199_StaticVarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/NestedClass/Lab201_StaticInnerClassEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/NestedClass/Lab202_NonStaticInnerClassEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/WrapperClass/Lab195_WrapperEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/WrapperClass/Lab196_WrapperToPrimitEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/WrapperClass/Lab197_WraperEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/WrapperClass/Lab198_WrapperEx4.java" afterDir="false" />
+    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of Aug 17 class added">
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab209_ExceptionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab210_ExceptionEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab211_ExceptionEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab212_ExceptionEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/ConsEx1_ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab04082024/Constructor/ConsEx1_ATBPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab10082024/Polymorphism/MethodOverloading/Lab0181_PolyEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab10082024/Polymorphism/MethodOverloading/Lab0181_PolyEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab10082024/Polymorphism/MethodOverloading/MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab10082024/Polymorphism/MethodOverloading/MathOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab10082024/Super/Lab0183.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab10082024/Super/Lab0183.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_Lab11082024/Static/Lab0193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab11082024/Static/Lab0193.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +182,9 @@
     "Application.Lab198_WrapperEx4.executor": "Run",
     "Application.Lab199_StaticVarEx1.executor": "Run",
     "Application.Lab200_SIBIIB.executor": "Run",
+    "Application.Lab209_ExceptionEx1.executor": "Run",
+    "Application.Lab210_ExceptionEx2.executor": "Run",
+    "Application.Lab212_ExceptionEx4.executor": "Run",
     "Application.LeftAngleTriangle.executor": "Run",
     "Application.RightAngleTriangle.executor": "Run",
     "Application.SecondLargestSalary (1).executor": "Run",
@@ -216,46 +208,7 @@
       <recent name="ex_Lab04082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab200_SIBIIB">
-    <configuration name="Lab196_WrapperToPrimitEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.WrapperClass.Lab196_WrapperToPrimitEx2" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab17082024.WrapperClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab197_WraperEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.WrapperClass.Lab197_WraperEx3" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab17082024.WrapperClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab198_WrapperEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.WrapperClass.Lab198_WrapperEx4" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab17082024.WrapperClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab212_ExceptionEx4_SpecificException">
     <configuration name="Lab199_StaticVarEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.NestedClass.Lab199_StaticVarEx1" />
       <module name="LearningATB7xJavaPrograms" />
@@ -282,13 +235,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab209_ExceptionEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.Exception.Lab209_ExceptionEx1" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab17082024.Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab210_ExceptionEx2_CustomisedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.Exception.Lab210_ExceptionEx2_CustomisedException" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab17082024.Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab212_ExceptionEx4_SpecificException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.Exception.Lab212_ExceptionEx4_SpecificException" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab17082024.Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab212_ExceptionEx4_SpecificException" />
+        <item itemvalue="Application.Lab210_ExceptionEx2_CustomisedException" />
+        <item itemvalue="Application.Lab209_ExceptionEx1" />
         <item itemvalue="Application.Lab200_SIBIIB" />
         <item itemvalue="Application.Lab199_StaticVarEx1" />
-        <item itemvalue="Application.Lab198_WrapperEx4" />
-        <item itemvalue="Application.Lab197_WraperEx3" />
-        <item itemvalue="Application.Lab196_WrapperToPrimitEx2" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723820713850</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="All Progams of Aug 17 class added">
+      <option name="closed" value="true" />
+      <created>1724162542478</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724162542478</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -442,7 +442,8 @@
     <MESSAGE value="All Progams of Aug 4 class added" />
     <MESSAGE value="All Progams of Aug 10 class added" />
     <MESSAGE value="All Progams of Aug 11 class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Progams of Aug 11 class added" />
+    <MESSAGE value="All Progams of Aug 17 class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Progams of Aug 17 class added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
