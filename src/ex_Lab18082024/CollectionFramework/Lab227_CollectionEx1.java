@@ -1,4 +1,4 @@
-package ex_Lab22082024.CollectionFramework;
+package ex_Lab18082024.CollectionFramework;
 
 public class Lab227_CollectionEx1 {
     public static void main(String[] args) {
