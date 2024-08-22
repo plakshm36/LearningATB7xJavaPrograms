@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of Aug 17 class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab213_ExceptionEx5_throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab215_ExceptionEx6_Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab217_ExceptionEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab218_ExceptionEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab219_ExceptionEx9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab220_ExceptionEx10_throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab221_ExceptionEx11_throwsmultiplecatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab222_ExceptionEx12_custom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab17082024/Exception/Lab223_ExceptionEx13_UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab22082024/CollectionFramework/Lab227_CollectionEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab22082024/CollectionFramework/Lab228_ArrayListEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab22082024/CollectionFramework/Lab229_ArrayListEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab22082024/CollectionFramework/Lab230_ArrayListEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,6 +195,7 @@
     "Application.Lab221_ExceptionEx11_throws.executor": "Run",
     "Application.Lab222_ExceptionEx12_custom.executor": "Run",
     "Application.Lab223_ExceptionEx13_UserInput.executor": "Run",
+    "Application.Lab228_ArrayListEx1.executor": "Run",
     "Application.LeftAngleTriangle.executor": "Run",
     "Application.RightAngleTriangle.executor": "Run",
     "Application.SecondLargestSalary (1).executor": "Run",
@@ -224,20 +219,7 @@
       <recent name="ex_Lab04082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab223_ExceptionEx13_UserInput">
-    <configuration name="Lab218_ExceptionEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.Exception.Lab218_ExceptionEx8" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab17082024.Exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab228_ArrayListEx1">
     <configuration name="Lab220_ExceptionEx10_throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_Lab17082024.Exception.Lab220_ExceptionEx10_throws" />
       <module name="LearningATB7xJavaPrograms" />
@@ -290,13 +272,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab228_ArrayListEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab22082024.CollectionFramework.Lab228_ArrayListEx1" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab22082024.CollectionFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab228_ArrayListEx1" />
         <item itemvalue="Application.Lab223_ExceptionEx13_UserInput" />
         <item itemvalue="Application.Lab222_ExceptionEx12_custom" />
         <item itemvalue="Application.Lab221_ExceptionEx11_throwsmultiplecatch" />
         <item itemvalue="Application.Lab220_ExceptionEx10_throws" />
-        <item itemvalue="Application.Lab218_ExceptionEx8" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724253966492</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="All Progams of Aug 17 class added">
+      <option name="closed" value="true" />
+      <created>1724264202294</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1724264202294</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
