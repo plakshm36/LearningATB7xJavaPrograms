@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of Aug 18 folder class added">
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab236_ArrayListLinkedListEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab237_StackListEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab238_CollectionsSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab239_CollectionsNaturalSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab240_toString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab241_SetEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab242_SetEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab243_QueueEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab248_GenericEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab249_GenericEx2.java" afterDir="false" />
+    <list default="true" id="157fd00e-18b9-4dce-9499-b42d5206b774" name="Changes" comment="All Progams of Aug 24 folder class added">
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab244_HashMapEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab245_HashMapEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab246_LinkedHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab242_SetEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_Lab24082024/CollectionFramework/Lab242_SetEx2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +206,9 @@
     "Application.Lab238_CollectionsSort.executor": "Run",
     "Application.Lab238_StackListEx2.executor": "Debug",
     "Application.Lab239_CollectionsNaturalSorting.executor": "Run",
+    "Application.Lab242_SetEx2.executor": "Run",
     "Application.Lab243_QueueEx1.executor": "Run",
+    "Application.Lab245_MapEx2.executor": "Run",
     "Application.Lab249_GenericEx2.executor": "Run",
     "Application.LeftAngleTriangle.executor": "Run",
     "Application.RightAngleTriangle.executor": "Run",
@@ -237,7 +233,7 @@
       <recent name="ex_Lab04082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab249_GenericEx2">
+  <component name="RunManager" selected="Application.Lab245_HashMapEx2">
     <configuration name="Lab237_StackListEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_Lab24082024.CollectionFramework.Lab237_StackListEx2" />
       <module name="LearningATB7xJavaPrograms" />
@@ -264,21 +260,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab238_CollectionsSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab24082024.CollectionFramework.Lab238_CollectionsSort" />
-      <module name="LearningATB7xJavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_Lab24082024.CollectionFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab239_CollectionsNaturalSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_Lab24082024.CollectionFramework.Lab239_CollectionsNaturalSorting" />
+    <configuration name="Lab242_SetEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab24082024.CollectionFramework.Lab242_SetEx2" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -292,6 +275,19 @@
     </configuration>
     <configuration name="Lab243_QueueEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_Lab24082024.CollectionFramework.Lab243_QueueEx1" />
+      <module name="LearningATB7xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Lab24082024.CollectionFramework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab245_HashMapEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Lab24082024.CollectionFramework.Lab245_HashMapEx2" />
       <module name="LearningATB7xJavaPrograms" />
       <extension name="coverage">
         <pattern>
@@ -318,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab245_HashMapEx2" />
+        <item itemvalue="Application.Lab242_SetEx2" />
         <item itemvalue="Application.Lab249_GenericEx2" />
         <item itemvalue="Application.Lab243_QueueEx1" />
         <item itemvalue="Application.Lab237_StackListEx2" />
-        <item itemvalue="Application.Lab239_CollectionsNaturalSorting" />
-        <item itemvalue="Application.Lab238_CollectionsSort (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724419906603</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="All Progams of Aug 24 folder class added">
+      <option name="closed" value="true" />
+      <created>1724878148887</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1724878148887</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -535,7 +539,8 @@
     <MESSAGE value="All Progams of Aug 17 class added" />
     <MESSAGE value="All Progams of Aug 18 class added" />
     <MESSAGE value="All Progams of Aug 18 folder class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Progams of Aug 18 folder class added" />
+    <MESSAGE value="All Progams of Aug 24 folder class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Progams of Aug 24 folder class added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

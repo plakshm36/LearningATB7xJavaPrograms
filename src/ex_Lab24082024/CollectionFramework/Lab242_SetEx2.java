@@ -14,11 +14,11 @@ public class Lab242_SetEx2 {
         hs.add(null);
         System.out.println(hs);
 
-        Set lhs = new LinkedHashSet(); // LinkedList mechanism to store the element, order will maintain
-        lhs.add("Apple");
+        Set lhs = new LinkedHashSet(); // LinkedList mechanism to store the element, order will maintain as its given
+        lhs.add("WaterMelon");
         lhs.add("apple");
         lhs.add("Orange");
-        lhs.add("WaterMelon");
+        lhs.add("Apple");
         lhs.add(null);
         System.out.println(lhs);
         System.out.println(lhs.isEmpty());
@@ -26,7 +26,7 @@ public class Lab242_SetEx2 {
         System.out.println(lhs.size());
 
 
-        Set ts = new TreeSet(); // Black and Red Tree mechanism to store the element, order will maintain
+        Set ts = new TreeSet(); // Black and Red Tree mechanism to store the element, sorting   order will maintain
         ts.add("Dapple");
         ts.add("Apple");
         ts.add("Orange");
